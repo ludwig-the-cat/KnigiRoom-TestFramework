@@ -1,0 +1,1 @@
+SERVICE_URL = 'http://188.120.241.222:8534/books'
